@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGR/lizqwZvzOyDoNoYs8noLj63PwfmJnLza4I55xPF7TUstkw0CxJ6MdxRxQDgNDz8Oq+UF4sX/XxSCdDslrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trajzer\\Documents\\Visual Studio 2019\\LAB2\\LAB2\\LAB2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trajzer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
