@@ -53,5 +53,22 @@ namespace LAB2.Constructions
                 _buildMaterial = value;
             }
         }
+
+        public double GetSquareCost()
+        {
+            if (BuildMaterial == TypeOfMaterial.Brik)
+            {
+                return Width * Height * 0.9 * 0.8;
+            }
+            if (BuildMaterial == TypeOfMaterial.Concrete)
+            {
+                return Width * Height * 0.9 * 0.87;
+            }
+            if (BuildMaterial == TypeOfMaterial.Wood)
+            {
+                return Width * Height * 0.9 * 0.78;
+            }
+            return 0;
+        }
     }
 }

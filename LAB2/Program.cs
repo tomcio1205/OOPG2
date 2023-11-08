@@ -25,6 +25,7 @@ namespace LAB2
             Console.WriteLine(constr2.Width);
             Console.WriteLine(constr2.Height);
             Console.WriteLine(constr3.BuildMaterial);
+            Console.WriteLine(constr3.GetSquareCost());
         }
     }
 }
