@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trajzer\\Documents\\Visual Studio 2019\\LAB2\\LAB2\\LAB2.csproj",
+      "projectUniqueName": "C:\\Users\\trajzer\\Documents\\OOPG2\\LAB2\\LAB2.csproj",
       "projectName": "LAB2",
-      "projectPath": "C:\\Users\\trajzer\\Documents\\Visual Studio 2019\\LAB2\\LAB2\\LAB2.csproj",
+      "projectPath": "C:\\Users\\trajzer\\Documents\\OOPG2\\LAB2\\LAB2.csproj",
       "packagesPath": "C:\\Users\\trajzer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trajzer\\Documents\\Visual Studio 2019\\LAB2\\LAB2\\obj\\",
+      "outputPath": "C:\\Users\\trajzer\\Documents\\OOPG2\\LAB2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
