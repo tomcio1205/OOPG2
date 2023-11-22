@@ -10,15 +10,18 @@ namespace LAB2.BuildingsWrapper
     class BuildingWrapper
     {
         public Construction _construction { get; set; }
-
         public BuildingWrapper(Construction construction)
         {
-            _construction = construction; 
+            _construction = construction;
         }
-
         public double GetWrappedSquareCost()
         {
-            return _construction.GetSquareCost();
+            return _construction.CalculateSquareCost();
+        }
+
+        public void DisplayConstructionInfo()
+        {
+            _construction.DisplayConstructionInfo();
         }
     }
 }

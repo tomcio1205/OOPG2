@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Xgvh1DyB/pCS8ZhYIgmk/HvTkvW4Ssu9tS+X6KaGu4fOdMGBaeJHL9xK/Fvg3LW2fWwCiBw1GB2WhkhrhVOVg==",
+  "dgSpecHash": "Jz9C1wnldV4o41jMrsim3xo67FuH5xKztfYieRpzDp/9coji56j/nG7GbsP/TkXabf6TD5y1MV8y1Rdizjudog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trajzer\\OOPG2\\LAB2\\LAB2.csproj",
+  "projectFilePath": "C:\\Users\\trajzer\\Documents\\OOPG2\\LAB2\\LAB2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trajzer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
